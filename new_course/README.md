@@ -38,8 +38,3 @@ Add the project path to your Odoo addons directory.
 Update the app list from the Odoo interface.
 
 Install the module from Apps.
-
-# Usage
-
-This project is intended for learning and testing only.
-Feel free to modify, break, and improve the code while practicing Odoo development.
