@@ -43,13 +43,3 @@ Install the module from Apps.
 
 This project is intended for learning and testing only.
 Feel free to modify, break, and improve the code while practicing Odoo development.
-
-Notes
-
-This is not a production-ready project
-
-Code structure may change as learning progresses
-
-Author
-
-Created for Odoo practice and self-learning.
