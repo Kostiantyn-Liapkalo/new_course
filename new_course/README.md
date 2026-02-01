@@ -37,4 +37,3 @@ Add the project path to your Odoo addons directory.
 
 Update the app list from the Odoo interface.
 
-Install the module from Apps.
